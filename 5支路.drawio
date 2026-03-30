@@ -998,6 +998,9 @@
         <mxCell id="f1wbXuwX8RtxgrU78T0V-356" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="f1wbXuwX8RtxgrU78T0V-354">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-358" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="f1wbXuwX8RtxgrU78T0V-353">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-349" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;BMS主板&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="299" x="241" y="140" as="geometry" />
         </mxCell>
@@ -1007,7 +1010,7 @@
         <mxCell id="f1wbXuwX8RtxgrU78T0V-352" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="-141" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="f1wbXuwX8RtxgrU78T0V-353" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-353" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池通讯" vertex="1">
           <mxGeometry height="60" width="120" x="65" y="280" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-354" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Debugging" vertex="1">

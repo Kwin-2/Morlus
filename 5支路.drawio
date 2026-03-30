@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="D97hgaWykiqwl5mmGKck">
-    <mxGraphModel dx="2387" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2179" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,6 +249,9 @@
             <mxPoint x="719" y="602" as="sourcePoint" />
             <mxPoint x="610" y="458" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-267" parent="f1wbXuwX8RtxgrU78T0V-87" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.current_transformer_1;rotation=90;" value="互感器" vertex="1">
+          <mxGeometry height="75" width="12" x="210" y="708" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-218" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;fillColor=#e51400;strokeColor=#B20000;">
           <mxGeometry relative="1" as="geometry">
@@ -640,6 +643,104 @@
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-266" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="主回路负4" vertex="1">
           <mxGeometry height="30" width="90" x="650" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-276" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-268" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-268" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池支路3-" vertex="1">
+          <mxGeometry height="30" width="90" x="-480" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-269" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池支路4-" vertex="1">
+          <mxGeometry height="30" width="90" x="-480" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-275" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-270" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="-110.83333333333326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-270" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池支路2-" vertex="1">
+          <mxGeometry height="30" width="90" x="-480" y="-126" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-271" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池支路1-" vertex="1">
+          <mxGeometry height="30" width="90" x="-480" y="-286" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-272" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-271" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.8;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="f1wbXuwX8RtxgrU78T0V-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-274" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="f1wbXuwX8RtxgrU78T0V-269">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="-271" />
+              <mxPoint x="-160" y="250" />
+            </Array>
+            <mxPoint x="-30" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-277" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;startArrow=oval;startFill=1;" target="f1wbXuwX8RtxgrU78T0V-278" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-160" y="-20" as="sourcePoint" />
+            <mxPoint x="110" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-287" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;jumpStyle=arc;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="f1wbXuwX8RtxgrU78T0V-223">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-20" />
+              <mxPoint x="170" y="-330" />
+              <mxPoint x="460" y="-330" />
+              <mxPoint x="460" y="-536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-288" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" target="f1wbXuwX8RtxgrU78T0V-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="-20" />
+              <mxPoint x="170" y="-330" />
+              <mxPoint x="460" y="-330" />
+              <mxPoint x="460" y="-402" />
+            </Array>
+            <mxPoint x="270" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-278" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor,_shunt;" value="Shunt" vertex="1">
+          <mxGeometry height="45" width="100" x="21" y="-55" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-280" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-284" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.27;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-99" y="92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-281" connectable="0" parent="f1wbXuwX8RtxgrU78T0V-280" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="温感2-" vertex="1">
+          <mxGeometry relative="1" x="-0.1499" y="-1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-282" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-284" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.73;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-63" y="92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-283" connectable="0" parent="f1wbXuwX8RtxgrU78T0V-282" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="温感2+" vertex="1">
+          <mxGeometry relative="1" x="0.2573" y="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-284" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;points=[[0.27,1,0,0,0],[0.73,1,0,0,0]];" value="温感" vertex="1">
+          <mxGeometry height="78" width="78" x="-120" y="-58" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-285" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;endFill=1;startArrow=oval;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="-19" as="sourcePoint" />
+            <mxPoint y="-96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-286" connectable="0" parent="f1wbXuwX8RtxgrU78T0V-285" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BAT-" vertex="1">
+          <mxGeometry relative="1" x="1" y="-2" as="geometry">
+            <mxPoint x="-2" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

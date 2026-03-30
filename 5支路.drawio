@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="D97hgaWykiqwl5mmGKck">
-    <mxGraphModel dx="2095" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4207" dy="3232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -992,13 +992,20 @@
         <mxCell id="f1wbXuwX8RtxgrU78T0V-348" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="-40" as="geometry" />
         </mxCell>
-        <mxCell id="f1wbXuwX8RtxgrU78T0V-351" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="f1wbXuwX8RtxgrU78T0V-350">
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-351" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="f1wbXuwX8RtxgrU78T0V-350">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f1wbXuwX8RtxgrU78T0V-356" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="f1wbXuwX8RtxgrU78T0V-354">
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-356" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="f1wbXuwX8RtxgrU78T0V-354">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f1wbXuwX8RtxgrU78T0V-358" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="f1wbXuwX8RtxgrU78T0V-353">
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-358" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.829;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="f1wbXuwX8RtxgrU78T0V-353">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-360" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="f1wbXuwX8RtxgrU78T0V-352">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-349" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;BMS主板&lt;/font&gt;" vertex="1">
@@ -1007,7 +1014,7 @@
         <mxCell id="f1wbXuwX8RtxgrU78T0V-350" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="天线" vertex="1">
           <mxGeometry height="60" width="120" x="11" y="87" as="geometry" />
         </mxCell>
-        <mxCell id="f1wbXuwX8RtxgrU78T0V-352" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-352" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="整车+充电" vertex="1">
           <mxGeometry height="60" width="120" x="-141" y="280" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-353" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池通讯" vertex="1">

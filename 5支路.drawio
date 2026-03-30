@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="D97hgaWykiqwl5mmGKck">
-    <mxGraphModel dx="1793" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1841" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
           <mxGeometry height="30" width="90" x="650" y="-963" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="主回路正2" vertex="1">
-          <mxGeometry height="30" width="90" x="650" y="-814" as="geometry" />
+          <mxGeometry height="30" width="90" x="650" y="-860" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="主回路正3" vertex="1">
           <mxGeometry height="30" width="90" x="650" y="-764" as="geometry" />
@@ -322,12 +322,11 @@
             <mxPoint x="650" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f1wbXuwX8RtxgrU78T0V-186" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.65;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;fillColor=#e51400;strokeColor=#B20000;">
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-186" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.65;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;fillColor=#e51400;strokeColor=#B20000;" target="f1wbXuwX8RtxgrU78T0V-153">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="-761" />
-              <mxPoint x="340" y="-802" />
-              <mxPoint x="650" y="-802" />
+              <mxPoint x="590" y="-912" />
+              <mxPoint x="590" y="-845" />
             </Array>
             <mxPoint x="650" y="-801" as="targetPoint" />
           </mxGeometry>
@@ -335,23 +334,23 @@
         <mxCell id="f1wbXuwX8RtxgrU78T0V-187" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.65;exitY=0.24;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;fillColor=#e51400;strokeColor=#B20000;startArrow=oval;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="279" y="-761" />
+              <mxPoint x="130" y="-912" />
             </Array>
             <mxPoint x="130" y="-761" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-188" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.28;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="299.79999999999995" y="-711" as="targetPoint" />
+            <mxPoint x="259.79999999999995" y="-862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-189" edge="1" parent="1" source="f1wbXuwX8RtxgrU78T0V-190" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.28;exitY=0.24;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="279" y="-711" as="targetPoint" />
+            <mxPoint x="239" y="-862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-190" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_relay;points=[[0.28,0.24,0,0,0],[0.28,0.78,0,0,0],[0.65,0.24,0,0,0],[0.65,0.78,0,0,0]];rotation=-90;" value="" vertex="1">
-          <mxGeometry height="38" width="38" x="270" y="-774" as="geometry" />
+          <mxGeometry height="38" width="38" x="230" y="-925" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-191" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="38" x="170" y="-1044" as="geometry" />

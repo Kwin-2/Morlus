@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="D97hgaWykiqwl5mmGKck">
-    <mxGraphModel dx="1347" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2387" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -589,7 +589,7 @@
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-256" connectable="0" parent="f1wbXuwX8RtxgrU78T0V-252" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HV2" vertex="1">
           <mxGeometry relative="1" x="0.6815" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-255" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;jumpStyle=arc;endFill=0;startArrow=oval;startFill=1;" value="">
@@ -600,7 +600,7 @@
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-257" connectable="0" parent="f1wbXuwX8RtxgrU78T0V-255" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HV3" vertex="1">
           <mxGeometry relative="1" x="0.6577" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-258" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=1;" value="">
@@ -611,7 +611,7 @@
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-260" connectable="0" parent="f1wbXuwX8RtxgrU78T0V-258" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HV1" vertex="1">
           <mxGeometry relative="1" x="0.8271" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-259" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;startArrow=oval;startFill=1;endFill=1;edgeStyle=orthogonalEdgeStyle;fillColor=#e51400;strokeColor=#B20000;" target="f1wbXuwX8RtxgrU78T0V-249" value="">
@@ -622,6 +622,24 @@
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-249" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;points=[[0.27,1,0,0,0],[0.73,1,0,0,0]];" value="温感" vertex="1">
           <mxGeometry height="48" width="48" x="520" y="-803" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-261" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="主回路负1" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="-126" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-262" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="充电负1" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="充电负2" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="-179" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="主回路负2" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="-76" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="主回路负3" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="-26" as="geometry" />
+        </mxCell>
+        <mxCell id="f1wbXuwX8RtxgrU78T0V-266" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="主回路负4" vertex="1">
+          <mxGeometry height="30" width="90" x="650" y="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

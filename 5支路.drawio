@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dlPbQpNVOzzo-SpklgAW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池支路1+" vertex="1">
-          <mxGeometry height="30" width="90" x="-590" y="10" as="geometry" />
+          <mxGeometry height="30" width="90" x="-580" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="dlPbQpNVOzzo-SpklgAW-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电池支路2+" vertex="1">
           <mxGeometry height="30" width="90" x="-590" y="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry height="1000" width="1140" x="-400" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="80" x="-440" y="10" as="geometry" />
+          <mxGeometry height="70" width="40" x="-420" y="20" as="geometry" />
         </mxCell>
         <mxCell id="f1wbXuwX8RtxgrU78T0V-4" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.fuse_1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="15" width="50" x="-425" y="47.5" as="geometry" />
